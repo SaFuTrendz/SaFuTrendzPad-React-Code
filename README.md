@@ -1,1 +1,0 @@
-# SaFuTrendzPad-React-Code
